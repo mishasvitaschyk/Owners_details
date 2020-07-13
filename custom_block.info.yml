@@ -1,0 +1,6 @@
+name: Owners details
+description: Owners details
+core: 8.x
+type: module
+dependencies:
+- block
